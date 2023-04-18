@@ -5,8 +5,8 @@ and same script will be used to add the members to pool once the maintenance is 
 
 This script will take below details as inputs 
 
-F5 host IP
-user name
-password
-pool name
+F5 host IP 
+user name 
+password 
+pool name 
 members names with associated port number 
